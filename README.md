@@ -1,6 +1,6 @@
-# Building a Sick Stock Trading AI
+# Qualitative, Quantitative, and Random Stock Trading Methods
 
-## (Qualitative, Quantitative, and Random Stock Trading Methods)
+## (Building a Sick Stock Trading AI) 
 
 ### Background
 
